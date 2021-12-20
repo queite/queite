@@ -1,10 +1,9 @@
-### Hi there! I am Queite 👋
-<a href='https://www.linkedin.com/in/queitesc/'><img align='left' alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='18px'/></a>
+<a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='18px'/></a>
 
+### Hi there! I am Queite 👋
 A web developer student at Trybe.
 
 - 🌱 I’m currently learning JavaScript, CSS, HTML and so on
-- 📫 How to reach me: queitesc@gmail.com
 
 <a href="https://github.com/queite/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&theme=radical" />
