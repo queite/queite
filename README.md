@@ -3,6 +3,14 @@
 ### Hi there! I am Queite 👋
 A web developer student at Trybe.
 
+Driven by knowledge, I saw a world of infinite possibilities in technology.
+
+I found in development the perfect opportunity to practice skills and knowledge developed in other areas such as analytical skills, adaptability, creative thinking. And quench my thirst for learning and my curiosity.
+
+There is always more to learn, always a new world opening up, and it really brings excitement.
+
+The culture of contribution I have found in the area is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
+
 - 🌱 I’m currently learning JavaScript, CSS, HTML and so on
 - 📫 you can find me on  <a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
 
