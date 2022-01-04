@@ -16,14 +16,9 @@ The culture of contribution I have found in the area is exactly what I was looki
 
 ----
 
-#### 🔔 My Stats
-<a href="https://github.com/queite/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=queite&theme=radical&show_icons=true" />
-</a>
-
-<a href="https://github.com/queite/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&theme=radical" />
-</a>
+#### 🔔 My Stats and Languages
+| <a href="https://github.com/queite/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=queite&theme=radical&show_icons=true" /></a> | <a href="https://github.com/queite/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&theme=radical" /></a> |
+| ------------- | ------------- |
 
 <!--
 **queite/queite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
