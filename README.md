@@ -15,7 +15,7 @@ The culture of contribution I have found in the area is exactly what I was looki
 - 📫 you can find me on  <a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
 
 ----
-#### :card_file_box: Learning Projects
+### :card_file_box: Learning Projects
 You can find some of my learning projects [here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).
 
 ----
