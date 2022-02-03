@@ -16,7 +16,7 @@ The culture of contribution I have found in the area is exactly what I was looki
 
 ----
 ### :card_file_box: Learning Projects
-You can find some of my learning projects [here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).
+You can find some of my learning projects **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
 
 ----
 #### 🔔 My Stats and Languages
