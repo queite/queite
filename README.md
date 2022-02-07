@@ -11,8 +11,17 @@ There is always more to learn, always a new world opening up, and it really brin
 
 The culture of contribution I have found in the area is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
 
-- 🌱 I’m currently learning JavaScript, CSS, HTML and so on
-- 📫 you can find me on  <a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
+- 🌱 I’m currently learning:
+<div>
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+<br>
+- 📫 you can find me on <a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
 
 ----
 ### :card_file_box: Learning Projects
