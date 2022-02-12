@@ -5,7 +5,7 @@ A web developer student at Trybe.
 
 Driven by knowledge, I saw a world of infinite possibilities in technology.
 
-I found in development the perfect opportunity to practice skills and knowledge developed in other areas such as analytical skills, adaptability, creative thinking. And quench my thirst for learning and my curiosity.
+In addition to quench my thirst for learning and curiosity. I found in development the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, open-mindedness and adaptability.
 
 There is always more to learn, always a new world opening up, and it really brings excitement.
 
