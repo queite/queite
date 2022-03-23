@@ -3,13 +3,15 @@
 ### Hi there! I am Queite 👋
 A web developer student at Trybe.
 
-Driven by knowledge, I saw a world of infinite possibilities in technology.
+Courage to face the unknown and the love for learning led me to development.
 
-In addition to quench my thirst for learning and curiosity. I found in development the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, open-mindedness and adaptability.
+I found in tech the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, collaboration, open-mindedness, and adaptability while learning and improving so many others.
 
-There is always more to learn, always a new world opening up, and it really brings excitement.
+The technologies I have worked with are: JavaScript, HTML, CSS, Jest, React, RTL.
 
-The culture of contribution I have found in the area is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
+There is always more to learn, always a new world opening up. All that knowledge and possibilities really bring excitement since excel for me is doing better than I did before.
+
+The collaboration culture I have found is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
 
 - 🌱 I’m currently learning:
 <div>
