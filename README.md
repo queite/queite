@@ -24,14 +24,17 @@ The collaboration culture I have found is exactly what I was looking for. People
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> 
   <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />      
 </div>
-<br>
-- 📫 you can find me on <a href='https://www.linkedin.com/in/queitesc/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
 
 ----
 ### :card_file_box: Learning Projects
 You can find some of my learning projects **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
 
-
+<br>
+  - 📫 How to reach me:
+<div>
+  <a href='https://www.linkedin.com/in/queitesc/' target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
+  <a href = "mailto:queitesc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **queite/queite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
