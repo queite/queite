@@ -30,7 +30,7 @@ The collaboration culture I have found is exactly what I was looking for. People
 
 ----
 ### :card_file_box: Learning Projects
-You can find some of my learning projects **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
+You can find a projects list **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
 
 <br>
   - 📫 How to reach me:
