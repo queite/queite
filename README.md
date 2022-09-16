@@ -45,6 +45,8 @@ You can find a projects list **[here](https://github.com/queite/queite.github.io
 <div align="center">
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **queite/queite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
