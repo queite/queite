@@ -1,7 +1,7 @@
 
 
-### Hi there! I am Queite 👋
-A web developer student at Trybe.
+### Hi there! 👋
+My name is Queite and I am a back-end developer.
 
 Courage to face the unknown and the love for learning led me to development.
 
