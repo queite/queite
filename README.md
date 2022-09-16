@@ -7,7 +7,7 @@ Courage to face the unknown and the love for learning led me to development.
 
 I found in tech the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, collaboration, open-mindedness, and adaptability while learning and improving so many others.
 
-My favorite technologies until now are: JavaScript, Node, Mongo, Docker.
+My favorite technologies until now are: JavaScript, Node, MongoDB, MySQL, Docker.
 
 There is always more to learn, always a new world opening up. All that knowledge and possibilities really bring excitement since excel for me is doing better than I did before.
 
@@ -17,7 +17,7 @@ The collaboration culture I have found is exactly what I was looking for. People
 <div align="center">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="node" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Node" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="MongoDB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -33,7 +33,7 @@ The collaboration culture I have found is exactly what I was looking for. People
 </div>
 
 ----
-### :card_file_box: Learning Projects
+## :card_file_box: My Projects
 You can find a projects list **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
 
 <br>
