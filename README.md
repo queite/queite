@@ -7,8 +7,6 @@ Courage to face the unknown and the love for learning led me to development.
 
 I found in tech the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, collaboration, open-mindedness, and adaptability while learning and improving so many others.
 
-My favorite technologies until now are: JavaScript, Node, MongoDB, MySQL, Docker.
-
 There is always more to learn, always a new world opening up. All that knowledge and possibilities really bring excitement since excel for me is doing better than I did before.
 
 The collaboration culture I have found is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
