@@ -3,15 +3,19 @@
 <div>
   <div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite%2C+a+backend+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite)](https://git.io/typing-svg)
 
   Courage to face the unknown and the love for learning led me to development.
 
-  I found in tech the perfect opportunity to practice developed skills and knowledge, such as time management and organization, analytical thinking, collaboration, open-mindedness, and adaptability while learning and improving so many others.
+ My journey with development and data started with Trybe in a complete training in Web Development.
 
-  There is always more to learn, always a new world opening up. All that knowledge and possibilities really bring excitement since excel for me is doing better than I did before.
+ In this training I developed a lot of knowledge that was applied in practical projects following the practices of market. We learned about agile methodologies, Scrum and Kanban, which were applied in projects undertaken in groups.
 
-  The collaboration culture I have found is exactly what I was looking for. People working together to improve other people's lives, to add to each other.
+ The technologies I have experience with are Python, Node.js, JavaScript, TypeScript, Docker, NoSQL, SQL, MongoDB, MySQL, Sequelize, Jest, Mocha, Chai, Sinon, Git, GitHub, HTML, CSS, React, RTL, Redux.
+
+ There is always more to learn, always a new world opening. All that knowledge and possibilities bring me enthusiasm since excel for me is doing better than I did before.
+
+ The collaboration culture I have found is delighting. People working together to add to each other, to improve other people's lives.
 
   </div>
 
