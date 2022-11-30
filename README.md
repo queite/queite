@@ -33,23 +33,162 @@
   <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,mysql,docker,git,github,html,css,vscode,jest,react,redux)](https://skillicons.dev) -->
 
 
-## 🗃️ Projects
-
+# 🗃️ Projects 📚
 <div>
-
   <img align="right" alt="GIF" src="https://media.tenor.com/AQjJex5j0HwAAAAd/janhvi-kapoor-janhvi.gif"  width="100px" />
+  <details>
+    <summary>
+      <strong>Under construction 🚧</strong>
+    </summary><br>
+    <div>
+      <h2>Web Site Mente de Yoga</h2>
+      <ul>
+        <li><a href='https://github.com/queite/mente-de-yoga'>Mente de yoga frontend</a></li>
+        <li><a href='https://github.com/queite/mente-de-yoga-api'>Mente de yoga users API</a></li>
+        <h3>Collaborators:</h3>
+        <a href='https://github.com/Tomas-Breuckmann'>Tomas Breuckmann</a><br>
+        <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
+      </ul>
+    </div>
+  </details>
 
-  You can find a projects list **[here](https://github.com/queite/queite.github.io/tree/main/LearningProjects).**
+  <details>
+    <summary>
+      <strong>Computer Science 📈</strong>
+    </summary><br>
+
+  * **Tech News** (11/2022)
+    * [About the project and Code](https://github.com/queite/tech-news)<br>
+      Data scraping from Trybe blog.
 
   <br>
 
-  - 📫 How to reach me:
+  * **Inventory Report** (10/2022)
+    * [About the project and Code](https://github.com/queite/inventory-report)<br>
+  Report generator built with Object-Oriented Programming (OOP) that receives as entry files with data from and an inventory and generate, as output, a report.
+
+  <br>
+
+  * **Job Insights** (10/2022)
+    * [About the project and Code](https://github.com/queite/inventory-report)<br>
+  Job Insights is web app built with Flask.
+  🎯 The goal was implement analysis from a data set about jobs and write tests for implementation of a data analysis.
+  </details>
+
+  <details>
+    <summary>
+      <strong>Back-end 👩🏻‍💻</strong>
+    </summary><br>
+
+  * **Car Shop** (09/2022)
+    * [About the project and Code](https://github.com/queite/car-shop)<br>
+  CRUD API to manage a car dealership with MongoDB database 🎯 The goal was to apply the principles of Object Oriented Programming (OOP) 🧪 The API is tested using Sinon, Mocha and Chai.
+
+  <br>
+
+  * **Trybe Futebol Clube** (08/2022)
+    * [About the project and Code](https://github.com/queite/trybe-futebol-clube)<br>
+  An informative website about football matches and rankings
+
+  <br>
+
+  * **Trybers & Dragons** (08/2022)
+    * [About the project and Code](https://github.com/queite/trybers-and-dragons)<br>
+  Develop a Role Playing Game (RPG) to apply OOP principles.
+
+  <br>
+
+  * **Blogs API** (07/2022)
+    * [About the project and Code](https://github.com/queite/blogs-api)<br>
+  REST API to manage a blog with the MSC software architecture using Node, Express and Sequelize.
+
+  <br>
+
+  * **Store Manager** (07/2022)
+    * [About the project and Code](https://github.com/queite/store-manager)<br>
+  API to manage sales with the MSC software architecture and test it. Presents all the CRUD operations.
+
+  <br>
+
+  * **Docker ToDo List** (05/2022)
+    * [About the project and Code](https://github.com/queite/docker-project)<br>
+  This project goal was dockerizing an application.
+  </details>
+
+  <details>
+    <summary>
+      <strong>Front-end ⚛️</strong>
+    </summary><br>
+
+  * **Trivia** (04/2022) - Group Project
+    * [Page](https://queite.github.io/trivia/)
+    * [About the project and Code](https://github.com/queite/trivia)
+    * Contributors: [Alector](https://github.com/AlectorAlexander) and [Jacqueline](https://github.com/Jacqueline-Silva)
+
+  <br>
+
+  * **TrybeWallet** (04/2022)
+    * [Page](https://queite.github.io/trybewallet/#/)
+    * [About the project and Code](https://github.com/queite/trybewallet)
+
+  <br>
+
+  * **TrybeTunes** (03/2022)
+    * [Page](https://queite.github.io/trybetunes/)
+    * [About the project and Code](https://github.com/queite/trybetunes)
+
+  <br>
+
+  * **React Testing Library** (03/2022)
+    * [About the project and Code](https://github.com/queite/RTL-project)
+
+  <br>
+
+  * **Solar System** (02/2022)
+    * [Page](https://queite.github.io/solar-system/)
+    * [About the project and Code](https://github.com/queite/solar-system)
+  </details>
+
+  <details>
+    <summary>
+      <strong> Web Development Fundamentals 👩‍💻</strong>
+    </summary><br>
+
+  * **Shopping Cart** (02/2022)
+    * [Page](https://queite.github.io/LearningProjects/ShoppingCart/index.html)
+    * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ShoppingCart)
+
+  <br>
+
+  * **Zoo Functions** (01/2022)
+    * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ZooFunctions)
+
+  <br>
+
+  * **JS Unit Tests** (01/2022)
+    * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/JSUnitTests)
+
+  <br>
+
+  * **Trybewarts** (01/2022)
+    * [Page](https://queite.github.io/LearningProjects/Trybewarts/index.html)
+    * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/Trybewarts)
+
+  <br>
+
+  * **Pixel Art** (12/2021)
+    * [Page](https://queite.github.io/LearningProjects/PixelsArtProject/index.html)
+    * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/PixelsArtProject)
+  </details>
+</div>
+
+<br>
+
+## 📫 How to reach me:
   <div>
     <a href='https://www.linkedin.com/in/queitesc/' target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" higth="13px"/></a>
     <a href = "mailto:queitesc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-
-</div>
 
 <br>
 
