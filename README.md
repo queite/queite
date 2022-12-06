@@ -55,6 +55,10 @@
       <strong>Computer Science 📈</strong>
     </summary><br>
 
+  * **TING - Trybe Is Not Google** (12/2022)
+    * [About the project and Code](https://github.com/queite/ting)<br>
+      Simulation of a document indexing algorithm similar to Google's. Identifies occurrences of terms in TXT files.
+
   * **Tech News** (11/2022)
     * [About the project and Code](https://github.com/queite/tech-news)<br>
       Data scraping from Trybe blog.
