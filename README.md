@@ -7,13 +7,15 @@
 
   Courage to face the unknown and the love for learning led me to development.
 
- My journey with development and data started with Trybe in a complete training in Web Development.
+  I build several projects using technologies such as: Python, Node.js, JavaScript, TypeScript, Docker, NoSQL, SQL, MongoDB, MySQL, Sequelize, Jest, Mocha, Chai, Sinon, Pytest, Git, GitHub, HTML, CSS, React, RTL, Redux.
 
- In this training I developed a lot of knowledge that was applied in practical projects following the practices of market.
+  I developed a lot of knowledge that were applied on individually and teams projects following the market's best practices using agile methodologies, Scrum and Kanban.
 
- The technologies I have experience with are Python, Node.js, JavaScript, TypeScript, Docker, NoSQL, SQL, MongoDB, MySQL, Sequelize, Jest, Mocha, Chai, Sinon, Git, GitHub, HTML, CSS, React, RTL, Redux.
+  Currently, I am attending the Bootcamp Data Analytics by WoMakersCode. It covers subjects such as Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud, data visualization, regressive models.
 
- The collaboration culture I have found is delighting. People working together to add to each other, to improve other people's lives.
+  My focus areas are backend and data.
+  
+  The collaboration culture I have found is delighting. People working together to add to each other, to improve other people's lives.
 
   </div>
 
