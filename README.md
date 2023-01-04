@@ -55,6 +55,10 @@
       <strong>Computer Science 📈</strong>
     </summary><br>
 
+  * **Restaurant Orders** (12/2022)
+    * [About the project and Code](https://github.com/queite/restaurant-orders)<br>
+      Reports generator about orders and clients of a snack bar and inventory control to ensure the digital menu always offers avaliable products avoiding customers insatisfaction.
+
   * **TING - Trybe Is Not Google** (12/2022)
     * [About the project and Code](https://github.com/queite/ting)<br>
       Simulation of a document indexing algorithm similar to Google's. Identifies occurrences of terms in TXT files.
