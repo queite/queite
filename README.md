@@ -205,7 +205,9 @@
 ---
 
 <div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&langs_count=7&theme=dracula"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&show_icons=true&theme=radical)](https://github.com/queite/github-readme-stats)
+<!--   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
