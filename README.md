@@ -87,6 +87,10 @@
     <summary>
       <strong>Back-end 👩🏻‍💻</strong>
     </summary><br>
+    
+  * **Lemon Case** (01/2023)
+    * [About the project and Code](https://github.com/queite/lemon-case)<br>
+  Business rules application in OOP
 
   * **Cash-tranfer** (11/2022)
     * [About the project and Code](https://github.com/queite/cash-transfer)<br>
