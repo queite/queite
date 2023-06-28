@@ -3,17 +3,16 @@
 <div>
   <div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite,+a+backend+developer)](https://git.io/typing-svg)  
+
 
   Courage to face the unknown and the love for learning led me to development.
 
   I build several projects using technologies such as: Python, Node.js, JavaScript, TypeScript, Docker, NoSQL, SQL, MongoDB, MySQL, Sequelize, Jest, Mocha, Chai, Sinon, Pytest, Git, GitHub, HTML, CSS, React, RTL, Redux.
-
-  I developed a lot of knowledge that were applied on individually and teams projects following the market's best practices using agile methodologies, Scrum and Kanban.
-
-  Currently, I am attending the Bootcamp Data Analytics by WoMakersCode. It covers subjects such as Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud, data visualization, regressive models.
-
-  My focus areas are backend and data.
+  
+  I developed a lot of knowledge that were applied on individual and teams projects following the market's best practices using agile methodologies, Scrum and Kanban.
+  
+  I also went to the Bootcamp Data Analytics by WoMakersCode. It covers subjects such as Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud, data visualization, regressive models.
   
   The collaboration culture I have found is delighting. People working together to add to each other, to improve other people's lives.
 
