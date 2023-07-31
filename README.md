@@ -40,10 +40,17 @@
       <strong>Under construction 🚧</strong>
     </summary><br>
     <div>
+      <h2>Java Todo List</h2>
+      <ul>
+        <li><a href='https://github.com/queite/todo-java'>Code</a></li>
+      </ul>
+    </div>
+    <div>
       <h2>Web Site Mente de Yoga</h2>
       <ul>
         <li><a href='https://github.com/queite/mente-de-yoga'>Mente de yoga frontend</a></li>
         <li><a href='https://github.com/queite/mente-de-yoga-api'>Mente de yoga users API</a></li>
+        <li><a href='http://www.mentedeyoga.com.br'>Deploy</a></li>
         <h3>Collaborators:</h3>
         <a href='https://github.com/Tomas-Breuckmann'>Tomas Breuckmann</a><br>
         <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
