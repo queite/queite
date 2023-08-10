@@ -139,6 +139,11 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
       <strong>Front-end ⚛️</strong>
     </summary><br>
 
+  * **InfoShop** (08/2023)
+    * [Deploy](https://queite.github.io/infoshop/products)
+    * [About the project and Code](https://github.com/queite/infoshop)
+    * Angular, TypeScript
+
   * **Trivia** (04/2022) - Group Project
     * [Page](https://queite.github.io/trivia/)
     * [About the project and Code](https://github.com/queite/trivia)
