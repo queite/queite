@@ -38,12 +38,6 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
     <summary>
       <strong>Under construction 🚧</strong>
     </summary><br>
-    <div>
-      <h2>Full stack app dockerization with angular, php and mysql</h2>
-      <ul>
-        <li><a href='https://github.com/queite/php-angular-mysql-docker'>Code</a></li>
-      </ul>
-    </div>
      <div>
       <h2>Java Todo List</h2>
       <ul>
@@ -61,6 +55,24 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
         <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
       </ul>
     </div> -->
+  </details>
+
+  <details>
+    <summary>
+      <strong>Full Stack 🔋</strong>
+    </summary><br>
+    <div>
+      <h2>Dockerized Full Stack Application with Angular, PHP, and MySQL.</h2>
+      <ul>
+        <li><a href='https://github.com/queite/php-angular-mysql-docker'>Code</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Cash-tranfer (11/2022)</h2>
+      <ul>
+        <li><a href='https://github.com/queite/cash-transfer'>Code</a></li>
+        <li>Dockerized full stack app to manage user registration and bank transfer.</li>
+    </div>
   </details>
 
   <details>
@@ -102,10 +114,6 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
   * **Lemon Case** (01/2023)
     * [About the project and Code](https://github.com/queite/lemon-case)<br>
   Business rules application in OOP
-
-  * **Cash-tranfer** (11/2022)
-    * [About the project and Code](https://github.com/queite/cash-transfer)<br>
-  Dockerized full stack app to manage user registration and bank transfer.
 
   * **Car Shop** (09/2022)
     * [About the project and Code](https://github.com/queite/car-shop)<br>
