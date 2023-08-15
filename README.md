@@ -30,6 +30,8 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
 <br>
 
 # 🗃️ Projects 📚
+
+
 <div>
   <img align="right" alt="GIF" src="https://media.tenor.com/AQjJex5j0HwAAAAd/janhvi-kapoor-janhvi.gif"  width="100px" />
   <details>
@@ -37,12 +39,18 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
       <strong>Under construction 🚧</strong>
     </summary><br>
     <div>
+      <h2>Full stack app dockerization with angular, php and mysql</h2>
+      <ul>
+        <li><a href='https://github.com/queite/php-angular-mysql-docker'>Code</a></li>
+      </ul>
+    </div>
+     <div>
       <h2>Java Todo List</h2>
       <ul>
         <li><a href='https://github.com/queite/todo-java'>Code</a></li>
       </ul>
     </div>
-    <div>
+<!--     <div>
       <h2>Web Site Mente de Yoga</h2>
       <ul>
         <li><a href='https://github.com/queite/mente-de-yoga'>Mente de yoga frontend</a></li>
@@ -52,7 +60,7 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
         <a href='https://github.com/Tomas-Breuckmann'>Tomas Breuckmann</a><br>
         <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
       </ul>
-    </div>
+    </div> -->
   </details>
 
   <details>
