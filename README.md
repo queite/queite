@@ -239,7 +239,8 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&show_icons=true&theme=radical)](https://github.com/queite/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&show_icons=true&theme=radical)](https://github.com/queite/github-readme-stats) -->
 <!--   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
