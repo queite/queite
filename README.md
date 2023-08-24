@@ -111,7 +111,7 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
       <strong>Back-end 👩🏻‍💻</strong>
     </summary><br>
     
-  * **Lemon Case** (01/2023)
+  * **Customer eligibility for sustainable energy** (01/2023)
     * [About the project and Code](https://github.com/queite/lemon-case)<br>
   Business rules application in OOP
 
