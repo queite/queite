@@ -62,7 +62,7 @@ As a junior developer, I am excited to continue my journey, tackle new challenge
       <strong>Full Stack 🔋</strong>
     </summary><br>
     <div>
-      <h2>Dockerized Full Stack Application with Angular, PHP, and MySQL.</h2>
+      <h2>Dockerized Full Stack Application with Angular, PHP, and MySQL (08/2023)</h2>
       <ul>
         <li><a href='https://github.com/queite/php-angular-mysql-docker'>Code</a></li>
       </ul>
