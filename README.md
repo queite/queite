@@ -7,7 +7,9 @@
 
 
 Courageously embracing the unknown and fueled by a passion for continuous learning, I embarked on a journey into the technology world.
+
 I am currently expanding my cloud repertoire with AWS.
+
 Through hands-on projects, I've honed my technical skills. Many of them are showcased here on my GitHub — list below.
 
 My skills:
