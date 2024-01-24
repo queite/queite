@@ -3,7 +3,7 @@
 <div>
   <div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite,+a+backend+developer)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite)](https://git.io/typing-svg)  
 
 
 Courageously embracing the unknown and fueled by a passion for continuous learning, I embarked on a journey into the technology world.
