@@ -6,10 +6,12 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=27DF81FF&pause=1000&width=435&lines=I+am+Queite,+a+backend+developer)](https://git.io/typing-svg)  
 
 
-Courageously embracing the unknown and fueled by a passion for continuous learning, I embarked on a journey into the world of software development. Through hands-on projects and a dedicated pursuit of knowledge, I've honed my skills and cultivated a deep appreciation for agile methodologies.
+Courageously embracing the unknown and fueled by a passion for continuous learning, I embarked on a journey into the technology world.
+I am currently expanding my cloud repertoire with AWS.
+Through hands-on projects, I've honed my technical skills. Many of them are showcased here on my GitHub — list below.
 
-My GitHub repository showcase my skills in:
-
+My skills:
+Cloud: AWS Cloud Practitioner<br>
 Programming Languages: Python, Node.js, JavaScript, TypeScript, Java<br>
 Containers & Deployment: Docker<br>
 Databases: NoSQL, SQL, MongoDB, MySQL, Sequelize<br>
@@ -20,8 +22,6 @@ Web Technologies: HTML, CSS, React, Redux, Angular, Express<br>
 Education and Training:
 
 My dedication to learning is exemplified through my educational journey. I completed a rigorous 1-year web development course at Trybe, where I gained a solid foundation in modern web technologies. Additionally, I further expanded my horizons by participating in the Data Analytics Bootcamp by WoMakersCode. This comprehensive program covered a wide range of topics, including Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud computing, data visualization, and regression models.
-  
-As a junior developer, I am excited to continue my journey, tackle new challenges, and contribute meaningfully to the ever-evolving field of software development.
 
   </div>
 
