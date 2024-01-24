@@ -12,7 +12,8 @@ I am currently expanding my cloud repertoire with AWS.
 
 Through hands-on projects, I've honed my technical skills. Many of them are showcased here on my GitHub — list below.
 
-My skills:
+**My skills:**
+
 Cloud: AWS Cloud Practitioner<br>
 Programming Languages: Python, Node.js, JavaScript, TypeScript, Java<br>
 Containers & Deployment: Docker<br>
@@ -21,7 +22,7 @@ Testing: Jest, Mocha, Chai, Sinon, Pytest, RTL<br>
 Version Control & Collaboration: Git, GitHub<br>
 Web Technologies: HTML, CSS, React, Redux, Angular, Express<br>
   
-Education and Training:
+**Training:**
 
 My dedication to learning is exemplified through my educational journey. I completed a rigorous 1-year web development course at Trybe, where I gained a solid foundation in modern web technologies. Additionally, I further expanded my horizons by participating in the Data Analytics Bootcamp by WoMakersCode. This comprehensive program covered a wide range of topics, including Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud computing, data visualization, and regression models.
 
@@ -240,7 +241,7 @@ My dedication to learning is exemplified through my educational journey. I compl
   </div>
 
 <br>
-
+<!-- 
 ---
 
   ## 🧰 Stacks
@@ -250,6 +251,7 @@ My dedication to learning is exemplified through my educational journey. I compl
   | <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"> <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  <img align="center" alt="Java" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">| <img align="center" alt="Node.js" height="40" width="40" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"> <img align="center" alt="Express" height="40" width="40" src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667"> | <img align="center" alt="Mysql" height="40" width="60" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png"> <img align="center" alt="Sequelize" height="40" width="40" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667"> <img align="center" alt="MongoDb" height="40" width="50" src="https://camo.githubusercontent.com/7c2f6c198780a56de18afde538d2856e4e197ef4df3aa77c6dd1799b01289959/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667"> | <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="Github" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> <img align="center" alt="Docker" height="40" width="40" src="https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667"> <img align="center" alt="Heroku" height="40" width="40" src="https://www.coddletech.com/sites/default/files/heroku-logo.png">|<img align="center" alt="VsCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/480px-Visual_Studio_Code_1.35_icon.svg.png"> <img align="center" alt="Insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"> <img align="center" alt="Thunder" height="40" width="40" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.4/1652969502181/Microsoft.VisualStudio.Services.Icons.Default"><img align="center" alt="Trello" width="70" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png"> <img align="center" alt="Postman" width="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">  | <img align="center" alt="Jest" height="40" width="40" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"> <img align="center" alt="Mocha e Chai" height="40" width="80" src="https://www.pngkey.com/png/full/80-803593_tutorial-mocha-chai-unit-testing-for-es-chai.png"> <img align="center" alt="Sinon" width="40" src="https://sinonjs.org/assets/images/logo.png"> <img align="center" alt="Pytest" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png"> |<img align="center" alt="HTML" height="40" width="40" src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667"><img align="center" alt="CSS" height="40" width="40" src="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667"> <img align="center" alt="React" height="40" width="40" src="https://camo.githubusercontent.com/e84431cfbd9f7c44b1c20da1dde8ad407cbc31174844a428074d1e3b43faab8b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667"> <img align="center" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> <img align="center" alt="Angular" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"> |
 
 <br>
+-->
   <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,mysql,docker,git,github,html,css,vscode,jest,react,redux)](https://skillicons.dev) -->
 
 ---
