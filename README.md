@@ -14,17 +14,17 @@ Through hands-on projects, I've honed my technical skills. Many of them are show
 
 **My skills:**
 
-Cloud: AWS Cloud Practitioner<br>
+Cloud: AWS Cloud Practitioner Certified<br>
 Programming Languages: Python, Node.js, JavaScript, TypeScript, Java<br>
-Containers & Deployment: Docker<br>
-Databases: NoSQL, SQL, MongoDB, MySQL, Sequelize<br>
+Containers & Deployment: Docker, GitHub Actions, Render<br>
+Databases: NoSQL, SQL, MongoDB, MySQL, Postegres, Sequelize, Prisma<br>
 Testing: Jest, Mocha, Chai, Sinon, Pytest, RTL<br>
 Version Control & Collaboration: Git, GitHub<br>
 Web Technologies: HTML, CSS, React, Redux, Angular, Express<br>
   
-**Training:**
+<!-- **Training:**
 
-My dedication to learning is exemplified through my educational journey. I completed a rigorous 1-year web development course at Trybe, where I gained a solid foundation in modern web technologies. Additionally, I further expanded my horizons by participating in the Data Analytics Bootcamp by WoMakersCode. This comprehensive program covered a wide range of topics, including Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud computing, data visualization, and regression models.
+My dedication to learning is exemplified through my educational journey. I completed a rigorous 1-year web development course at Trybe, where I gained a solid foundation in modern web technologies. Additionally, I further expanded my horizons by participating in the Data Analytics Bootcamp by WoMakersCode. This comprehensive program covered a wide range of topics, including Python, problem-solving, agile methodologies, statistics, databases, business intelligence, cloud computing, data visualization, and regression models. -->
 
   </div>
 
@@ -37,17 +37,11 @@ My dedication to learning is exemplified through my educational journey. I compl
 
 <div>
   <img align="right" alt="GIF" src="https://media.tenor.com/AQjJex5j0HwAAAAd/janhvi-kapoor-janhvi.gif"  width="100px" />
-  <details>
+<!--   <details>
     <summary>
       <strong>Under construction 🚧</strong>
     </summary><br>
-     <div>
-      <h2>Java Todo List</h2>
-      <ul>
-        <li><a href='https://github.com/queite/todo-java'>Code</a></li>
-      </ul>
-    </div>
-<!--     <div>
+    <div>
       <h2>Web Site Mente de Yoga</h2>
       <ul>
         <li><a href='https://github.com/queite/mente-de-yoga'>Mente de yoga frontend</a></li>
@@ -57,15 +51,37 @@ My dedication to learning is exemplified through my educational journey. I compl
         <a href='https://github.com/Tomas-Breuckmann'>Tomas Breuckmann</a><br>
         <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
       </ul>
-    </div> -->
+    </div>
+  </details> -->
+  
+  <details>
+    <summary>
+      <b>DevOps :green_heart:</b>
+    </summary><br>
+    <div>
+      <h2>Desafio DevOps Potência Tech</h2>
+      <ul>
+        <li>Realização de deploy.</li>
+         <li>Criação de pipelines de testes unitários e end-to-end.</li>
+         <li>Configuração do docker.</li>
+        <li><a href='https://github.com/queite/desafio-2-devops'>Code</a></li>
+      </ul>
+    </div>
   </details>
+
 
   <details>
     <summary>
       <strong>Full Stack 🔋</strong>
     </summary><br>
+         <div>
+      <h2>Java Todo List</h2>
+      <ul>
+        <li><a href='https://github.com/queite/todo-java'>Code</a></li>
+      </ul>
+    </div>
     <div>
-      <h2>Client Manager (08/2023)</h2>
+      <h2>Client Manager</h2>
       <ul>
         <li><a href='https://github.com/queite/client-manager'>Code</a></li>
         <li>Fullstack application that allows users to view and create customers.</li>
@@ -78,7 +94,7 @@ My dedication to learning is exemplified through my educational journey. I compl
       </ul>
     </div>
     <div>
-      <h2>Cash-tranfer (11/2022)</h2>
+      <h2>Cash-tranfer</h2>
       <ul>
         <li><a href='https://github.com/queite/cash-transfer'>Code</a></li>
         <li>Dockerized full stack app to manage user registration and bank transfer.</li>
@@ -90,27 +106,27 @@ My dedication to learning is exemplified through my educational journey. I compl
       <strong>Python 🐍</strong>
     </summary><br>
 
-  * **Restaurant Orders** (12/2022)
+  * **Restaurant Orders**
     * [About the project and Code](https://github.com/queite/restaurant-orders)<br>
       Reports generator about orders and clients of a snack bar and inventory control to ensure the digital menu always offers avaliable products avoiding customers insatisfaction.
 
-  * **TING - Trybe Is Not Google** (12/2022)
+  * **TING - Trybe Is Not Google**
     * [About the project and Code](https://github.com/queite/ting)<br>
       Simulation of a document indexing algorithm similar to Google's. Identifies occurrences of terms in TXT files.
 
-  * **Tech News** (11/2022)
+  * **Tech News**
     * [About the project and Code](https://github.com/queite/tech-news)<br>
       Data scraping from Trybe blog.
 
   <br>
 
-  * **Inventory Report** (10/2022)
+  * **Inventory Report**
     * [About the project and Code](https://github.com/queite/inventory-report)<br>
   Report generator built with Object-Oriented Programming (OOP) that receives as entry files with data from and an inventory and generate, as output, a report.
 
   <br>
 
-  * **Job Insights** (10/2022)
+  * **Job Insights**
     * [About the project and Code](https://github.com/queite/job-insights)<br>
   Job Insights is web app built with Flask.
   🎯 The goal was implement analysis from a data set about jobs and write tests for implementation of a data analysis.
@@ -121,23 +137,23 @@ My dedication to learning is exemplified through my educational journey. I compl
       <strong>Back-end 👩🏻‍💻</strong>
     </summary><br>
     
-  * **Customer eligibility for sustainable energy** (01/2023)
+  * **Customer eligibility for sustainable energy**
     * [About the project and Code](https://github.com/queite/lemon-case)<br>
   Business rules application in OOP
 
-  * **Car Shop** (09/2022)
+  * **Car Shop**
     * [About the project and Code](https://github.com/queite/car-shop)<br>
   CRUD API to manage a car dealership with MongoDB database 🎯 The goal was to apply the principles of Object Oriented Programming (OOP) 🧪 The API is tested using Sinon, Mocha and Chai.
 
   <br>
 
-  * **Trybe Futebol Clube** (08/2022)
+  * **Trybe Futebol Clube**
     * [About the project and Code](https://github.com/queite/trybe-futebol-clube)<br>
   An informative website about football matches and rankings
 
   <br>
 
-  * **Trybers & Dragons** (08/2022)
+  * **Trybers & Dragons**
     * [About the project and Code](https://github.com/queite/trybers-and-dragons)<br>
   Develop a Role Playing Game (RPG) to apply OOP principles.
 
@@ -149,13 +165,13 @@ My dedication to learning is exemplified through my educational journey. I compl
 
   <br>
 
-  * **Store Manager** (07/2022)
+  * **Store Manager**
     * [About the project and Code](https://github.com/queite/store-manager)<br>
   API to manage sales with the MSC software architecture and test it. Presents all the CRUD operations.
 
   <br>
 
-  * **Docker ToDo List** (05/2022)
+  * **Docker ToDo List**
     * [About the project and Code](https://github.com/queite/docker-project)<br>
   This project goal was dockerizing an application.
   </details>
@@ -165,36 +181,36 @@ My dedication to learning is exemplified through my educational journey. I compl
       <strong>Front-end ⚛️</strong>
     </summary><br>
 
-  * **InfoShop** (08/2023)
+  * **InfoShop**
     * [Deploy](https://queite.github.io/infoshop/products)
     * [About the project and Code](https://github.com/queite/infoshop)
     * Angular, TypeScript
 
-  * **Trivia** (04/2022) - Group Project
+  * **Trivia**
     * [Page](https://queite.github.io/trivia/)
     * [About the project and Code](https://github.com/queite/trivia)
     * Contributors: [Alector](https://github.com/AlectorAlexander) and [Jacqueline](https://github.com/Jacqueline-Silva)
 
   <br>
 
-  * **TrybeWallet** (04/2022)
+  * **TrybeWallet**
     * [Page](https://queite.github.io/trybewallet/#/)
     * [About the project and Code](https://github.com/queite/trybewallet)
 
   <br>
 
-  * **TrybeTunes** (03/2022)
+  * **TrybeTunes**
     * [Page](https://queite.github.io/trybetunes/)
     * [About the project and Code](https://github.com/queite/trybetunes)
 
   <br>
 
-  * **React Testing Library** (03/2022)
+  * **React Testing Library**
     * [About the project and Code](https://github.com/queite/RTL-project)
 
   <br>
 
-  * **Solar System** (02/2022)
+  * **Solar System**
     * [Page](https://queite.github.io/solar-system/)
     * [About the project and Code](https://github.com/queite/solar-system)
   </details>
@@ -204,29 +220,29 @@ My dedication to learning is exemplified through my educational journey. I compl
       <strong> Web Development Fundamentals 👩‍💻</strong>
     </summary><br>
 
-  * **Shopping Cart** (02/2022)
+  * **Shopping Cart**
     * [Page](https://queite.github.io/LearningProjects/ShoppingCart/index.html)
     * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ShoppingCart)
 
   <br>
 
-  * **Zoo Functions** (01/2022)
+  * **Zoo Functions**
     * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ZooFunctions)
 
   <br>
 
-  * **JS Unit Tests** (01/2022)
+  * **JS Unit Tests**
     * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/JSUnitTests)
 
   <br>
 
-  * **Trybewarts** (01/2022)
+  * **Trybewarts**
     * [Page](https://queite.github.io/LearningProjects/Trybewarts/index.html)
     * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/Trybewarts)
 
   <br>
 
-  * **Pixel Art** (12/2021)
+  * **Pixel Art**
     * [Page](https://queite.github.io/LearningProjects/PixelsArtProject/index.html)
     * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/PixelsArtProject)
   </details>
