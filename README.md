@@ -15,12 +15,12 @@ Through hands-on projects, I've honed my technical skills. Many of them are show
 **My skills:**
 
 Cloud: AWS Cloud Practitioner Certified<br>
-Programming Languages: Python, Node.js, JavaScript, TypeScript, Java<br>
-CI/CD & Containers & Deployment: Docker, GitHub Actions, Render<br>
+Programming Languages: Python, Node.js, JavaScript, TypeScript<br>
+CI/CD | Containers | Deployment: Docker, GitHub Actions, Render<br>
 Databases: NoSQL, SQL, MongoDB, MySQL, Postegres, Sequelize, Prisma<br>
 Testing: Jest, Mocha, Chai, Sinon, Pytest, RTL<br>
-Version Control & Collaboration: Git, GitHub<br>
-Web Technologies: HTML, CSS, React, Redux, Angular, Express<br>
+Version Control | Collaboration: Git, GitHub<br>
+Web Technologies: HTML, CSS, React, Angular, Express<br>
   
 <!-- **Training:**
 
