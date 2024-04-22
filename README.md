@@ -279,9 +279,9 @@ My dedication to learning is exemplified through my educational journey. I compl
 <!--   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queite&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align="rigth" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=queite"/>
+<img align="rigth" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=queite"/> -->
 <!--
 **queite/queite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
